@@ -1,0 +1,19 @@
+{
+  "name": "esp8266-camera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "oby",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "forever": "^0.15.3",
+    "http": "0.0.0",
+    "ua-parser-js": "^0.7.12",
+    "websocket": "^1.0.24"
+  }
+}
