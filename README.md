@@ -1,1 +1,2 @@
 # CameraOnWheels
+’Camera on Wheels’ is a prototype implementation of a remotely controlled car attached with a camera, using an ESP8266 wifi breakout board. It integrates with a web and mobile web application that provides the user interface to view the video captured by the camera and buttons to control the car. It is based on a client-server architecture to make the car accessible from anywhere with an internet connection.
